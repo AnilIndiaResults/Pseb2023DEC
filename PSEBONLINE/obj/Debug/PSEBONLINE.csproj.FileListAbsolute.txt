@@ -1,0 +1,937 @@
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\obj\Debug\RdlCompile.cache
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\obj\Debug\RdlCompile.compiled
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\csc.exe
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\csc.exe.config
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\csc.rsp
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\csi.exe
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\csi.exe.config
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\csi.rsp
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.AppContext.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Console.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\vbc.exe
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\vbc.exe.config
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\vbc.rsp
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\PSEBONLINE.dll.config
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\PSEBONLINE.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\PSEBONLINE.pdb
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\ExcelNumberFormat.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\Ionic.Zip.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\EnvDTE.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\stdole.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\Microsoft.MSXML.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\Antlr3.Runtime.pdb
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\DocumentFormat.OpenXml.xml
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\ExcelNumberFormat.xml
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\bin\System.Web.Optimization.xml
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+D:\Current Work\Current Work\PSEB\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+D:\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+D:\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+D:\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\csc.exe
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\csc.exe.config
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\csc.rsp
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\csi.exe
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\csi.exe.config
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\csi.rsp
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.AppContext.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Console.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\vbc.exe
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\vbc.exe.config
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\vbc.rsp
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+D:\PSEB2022-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+D:\PSEB2022-main\PSEBONLINE\bin\PSEBONLINE.dll.config
+D:\PSEB2022-main\PSEBONLINE\bin\PSEBONLINE.dll
+D:\PSEB2022-main\PSEBONLINE\bin\PSEBONLINE.pdb
+D:\PSEB2022-main\PSEBONLINE\bin\ExcelNumberFormat.dll
+D:\PSEB2022-main\PSEBONLINE\bin\Ionic.Zip.dll
+D:\PSEB2022-main\PSEBONLINE\bin\EnvDTE.dll
+D:\PSEB2022-main\PSEBONLINE\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PSEB2022-main\PSEBONLINE\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\PSEB2022-main\PSEBONLINE\bin\stdole.dll
+D:\PSEB2022-main\PSEBONLINE\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PSEB2022-main\PSEBONLINE\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PSEB2022-main\PSEBONLINE\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PSEB2022-main\PSEBONLINE\bin\Microsoft.MSXML.dll
+D:\PSEB2022-main\PSEBONLINE\bin\Antlr3.Runtime.pdb
+D:\PSEB2022-main\PSEBONLINE\bin\DocumentFormat.OpenXml.xml
+D:\PSEB2022-main\PSEBONLINE\bin\ExcelNumberFormat.xml
+D:\PSEB2022-main\PSEBONLINE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PSEB2022-main\PSEBONLINE\bin\System.Web.Optimization.xml
+D:\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+D:\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+D:\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+D:\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+D:\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+F:\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+F:\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+F:\PSEB2022-main\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\csc.exe
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\csc.exe.config
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\csc.rsp
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\csi.exe
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\csi.exe.config
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\csi.rsp
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.AppContext.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Console.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\vbc.exe
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\vbc.exe.config
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\vbc.rsp
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+F:\PSEB2022-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+F:\PSEB2022-main\PSEBONLINE\bin\PSEBONLINE.dll.config
+F:\PSEB2022-main\PSEBONLINE\bin\PSEBONLINE.dll
+F:\PSEB2022-main\PSEBONLINE\bin\PSEBONLINE.pdb
+F:\PSEB2022-main\PSEBONLINE\bin\ExcelNumberFormat.dll
+F:\PSEB2022-main\PSEBONLINE\bin\Ionic.Zip.dll
+F:\PSEB2022-main\PSEBONLINE\bin\EnvDTE.dll
+F:\PSEB2022-main\PSEBONLINE\bin\stdole.dll
+F:\PSEB2022-main\PSEBONLINE\bin\ExcelNumberFormat.xml
+F:\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+F:\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+F:\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+F:\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+F:\PSEB2022-main\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+F:\PSEB2022-main\PSEBONLINE\bin\AWSSDK.Core.dll
+F:\PSEB2022-main\PSEBONLINE\bin\AWSSDK.S3.dll
+F:\PSEB2022-main\PSEBONLINE\bin\AWSSDK.Core.pdb
+F:\PSEB2022-main\PSEBONLINE\bin\AWSSDK.Core.xml
+F:\PSEB2022-main\PSEBONLINE\bin\AWSSDK.S3.pdb
+F:\PSEB2022-main\PSEBONLINE\bin\AWSSDK.S3.xml
+F:\PSEB2022-main\PSEBONLINE\bin\EnvDTE.xml
+F:\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+F:\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+F:\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.exe
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.exe.config
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.rsp
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.exe
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.exe.config
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.rsp
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.AppContext.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Console.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.exe
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.exe.config
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.rsp
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+F:\PSEB2023-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+F:\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.dll.config
+F:\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.dll
+F:\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.pdb
+F:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.dll
+F:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.dll
+F:\PSEB2023-main\PSEBONLINE\bin\ExcelNumberFormat.dll
+F:\PSEB2023-main\PSEBONLINE\bin\Ionic.Zip.dll
+F:\PSEB2023-main\PSEBONLINE\bin\EnvDTE.dll
+F:\PSEB2023-main\PSEBONLINE\bin\stdole.dll
+F:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.pdb
+F:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.xml
+F:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.pdb
+F:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.xml
+F:\PSEB2023-main\PSEBONLINE\bin\ExcelNumberFormat.xml
+F:\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+F:\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+F:\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+F:\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+F:\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.exe
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.exe.config
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.rsp
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.exe
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.exe.config
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.rsp
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.AppContext.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Console.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.exe
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.exe.config
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.rsp
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.dll.config
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.pdb
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\ExcelNumberFormat.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\Ionic.Zip.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\EnvDTE.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\stdole.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\Microsoft.MSXML.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.pdb
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.xml
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.pdb
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.xml
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\bin\ExcelNumberFormat.xml
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+D:\Bishul Current Work\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.exe
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.exe.config
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.rsp
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.exe
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.exe.config
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.rsp
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.AppContext.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Console.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.exe
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.exe.config
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.rsp
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.dll.config
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.pdb
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\ExcelNumberFormat.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\Ionic.Zip.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\EnvDTE.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\stdole.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\Microsoft.MSXML.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.pdb
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.xml
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.pdb
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.xml
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\bin\ExcelNumberFormat.xml
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+D:\amardeep current work\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.exe
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.exe.config
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.rsp
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.exe
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.exe.config
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.rsp
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.AppContext.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Console.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.exe
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.exe.config
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.rsp
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.dll.config
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.pdb
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\ExcelNumberFormat.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\Ionic.Zip.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\EnvDTE.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\stdole.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.pdb
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.xml
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.pdb
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.xml
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\ExcelNumberFormat.xml
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+D:\Current Work\Current Work\PSEB\2022\PSEB2023-main\PSEBONLINE\bin\EnvDTE.xml
+E:\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+E:\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+E:\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+E:\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+E:\PSEB2023-main\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.exe
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.exe.config
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\csc.rsp
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.exe
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.exe.config
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\csi.rsp
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.AppContext.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Console.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.exe
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.exe.config
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\vbc.rsp
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+E:\PSEB2023-main\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+E:\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.dll.config
+E:\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.dll
+E:\PSEB2023-main\PSEBONLINE\bin\PSEBONLINE.pdb
+E:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.dll
+E:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.dll
+E:\PSEB2023-main\PSEBONLINE\bin\ExcelNumberFormat.dll
+E:\PSEB2023-main\PSEBONLINE\bin\Ionic.Zip.dll
+E:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.pdb
+E:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.Core.xml
+E:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.pdb
+E:\PSEB2023-main\PSEBONLINE\bin\AWSSDK.S3.xml
+E:\PSEB2023-main\PSEBONLINE\bin\ExcelNumberFormat.xml
+E:\PSEB2023-main\PSEBONLINE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+E:\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+E:\PSEB2023-main\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.exe
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.exe.config
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.rsp
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.exe
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.exe.config
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.rsp
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.AppContext.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Console.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.exe
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.exe.config
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.rsp
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.dll.config
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.pdb
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\ExcelNumberFormat.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\Ionic.Zip.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.pdb
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.xml
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.pdb
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.xml
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\ExcelNumberFormat.xml
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\Antlr3.Runtime.pdb
+E:\PSEB2023-main - Copy (2)\PSEBONLINE\bin\DocumentFormat.OpenXml.xml
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.exe
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.exe.config
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.rsp
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.exe
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.exe.config
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.rsp
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.AppContext.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Console.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.exe
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.exe.config
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.rsp
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.dll.config
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.pdb
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\ExcelNumberFormat.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\Ionic.Zip.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\Antlr3.Runtime.pdb
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.pdb
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.xml
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.pdb
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.xml
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\DocumentFormat.OpenXml.xml
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\ExcelNumberFormat.xml
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+D:\anil work\currentWorkFor2023\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.exe
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.exe.config
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.rsp
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.exe
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.exe.config
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.rsp
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.AppContext.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Console.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.exe
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.exe.config
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.rsp
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.dll.config
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.pdb
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\ExcelNumberFormat.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\Ionic.Zip.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\Antlr3.Runtime.pdb
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.pdb
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.xml
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.pdb
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.xml
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\DocumentFormat.OpenXml.xml
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\ExcelNumberFormat.xml
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+D:\Current Work\Current Work\PSEB\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.exe
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.exe.config
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csc.rsp
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.exe
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.exe.config
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\csi.rsp
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.AppContext.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Console.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.exe
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.exe.config
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\vbc.rsp
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.dll.config
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\PSEBONLINE.pdb
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\ExcelNumberFormat.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\Ionic.Zip.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.pdb
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.Core.xml
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.pdb
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\AWSSDK.S3.xml
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\bin\ExcelNumberFormat.xml
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+D:\anil work\currentWorkFor2023\newcurrent\PSEB2023-main - Copy (2)\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.AssemblyReference.cache
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CoreCompileInputs.cache
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\SqlServerTypes\x64\msvcr120.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\SqlServerTypes\x86\msvcr120.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\csc.exe
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\csc.exe.config
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\csc.rsp
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\csi.exe
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\csi.exe.config
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\csi.rsp
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.AppContext.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Collections.Immutable.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Console.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Diagnostics.Process.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.IO.Compression.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.IO.FileSystem.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.IO.Pipes.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Reflection.Metadata.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Security.AccessControl.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Security.Claims.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Threading.Thread.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.ValueTuple.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Xml.XPath.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\vbc.exe
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\vbc.exe.config
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\vbc.rsp
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\VBCSCompiler.exe
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\roslyn\VBCSCompiler.exe.config
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\PSEBONLINE.dll.config
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\PSEBONLINE.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\PSEBONLINE.pdb
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\AWSSDK.Core.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\AWSSDK.S3.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\ExcelNumberFormat.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\Ionic.Zip.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\RestSharp.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\AWSSDK.Core.pdb
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\AWSSDK.Core.xml
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\AWSSDK.S3.pdb
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\AWSSDK.S3.xml
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\ExcelNumberFormat.xml
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\bin\RestSharp.xml
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\obj\Debug\PSEBONLINE.csproj.CopyComplete
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\obj\Debug\PSEBONLINE.dll
+D:\anil work\GitCurrentWork\NEWPseb2023\PSEBONLINE\obj\Debug\PSEBONLINE.pdb
