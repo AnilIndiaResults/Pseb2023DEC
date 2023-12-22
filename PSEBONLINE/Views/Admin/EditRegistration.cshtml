@@ -94,10 +94,10 @@
             <div class="col-md-4">
                 @if (ViewBag.Form.ToString().ToLower() == "t3")
                 {
-                        @Html.DropDownListFor(model => model.openUserLogin.HOMEDIST, (List<SelectListItem>)ViewBag.Dist, new { required = "required" })
+                        @Html.DropDownListFor(model => model.openUserLogin.HOMEDIST, (List<SelectListItem>)ViewBag.Dist, new { id= "HOMEDIST", required = "required" })
                 }
                 else
-                {@Html.DropDownListFor(model => model.openUserLogin.HOMEDIST, (List<SelectListItem>)ViewBag.Dist, new { required = "required" })}
+                {@Html.DropDownListFor(model => model.openUserLogin.HOMEDIST, (List<SelectListItem>)ViewBag.Dist, new { id = "HOMEDIST", required = "required"  })}
                 @Html.HiddenFor(model => model.openUserLogin.HOMEDIST)
                 <label id="noTehsilLabel" hidden="hidden" style="color:red">No Tehsil present for this stream. Please select another district</label>
             </div>
@@ -105,7 +105,7 @@
                 Tehsil<sup style="color:red;font-size:15px;">*</sup>
             </div>
             <div class="col-md-4">
-                @Html.DropDownListFor(model => model.openUserLogin.TEHSIL, (List<SelectListItem>)ViewBag.Tehsils, new { required = "required" })
+                @Html.DropDownListFor(model => model.openUserLogin.TEHSIL, (List<SelectListItem>)ViewBag.Tehsils, new { required = "required",id= "TEHSIL" })
                 @Html.HiddenFor(model => model.openUserLogin.TEHSIL)
             </div>
             <div class="clearfix"></div>

@@ -24,6 +24,7 @@ using iTextSharp.text.pdf;
 using System.Data.OleDb;
 using ClosedXML.Excel;
 using PSEBONLINE.Filters;
+using System.Security.Cryptography;
 
 namespace PSEBONLINE.Controllers
 {
@@ -2061,9 +2062,14 @@ namespace PSEBONLINE.Controllers
 
 
                 Search += " and a.ExamMonth = '" + Session["DeoLoginExamCentre"].ToString() + "'";
-                obj.StoreAllData = OBJDB.CenterList(Search, Catg, pageIndex);
-                // obj.TotalCount = OBJDB.CenterCount(Search, Catg, pageIndex);
-                if (obj.StoreAllData == null || obj.StoreAllData.Tables[0].Rows.Count == 0)
+				//obj.StoreAllData = OBJDB.CenterList(Search, Catg, pageIndex);
+				// obj.TotalCount = OBJDB.CenterCount(Search, Catg, pageIndex);
+
+				obj.StoreAllData = OBJDB.SelectCenterListByUser(Search, Catg, pageIndex);
+				obj.TotalCount = OBJDB.SelectCenterListByUserCount(Search, Catg, pageIndex);
+
+
+				if (obj.StoreAllData == null || obj.StoreAllData.Tables[0].Rows.Count == 0)
                 {
                     ViewBag.Message = "Center Dose not Exist";
                     ViewBag.TotalCount = 0;
@@ -2071,9 +2077,9 @@ namespace PSEBONLINE.Controllers
                 else
                 {
                     ViewBag.TotalCount = obj.StoreAllData.Tables[0].Rows.Count;
-                    ViewBag.TotalCount1 = Convert.ToInt32(obj.StoreAllData.Tables[1].Rows[0]["decount"]);
-                    int tp = Convert.ToInt32(obj.StoreAllData.Tables[1].Rows[0]["decount"]);
-                    int pn = tp / 10;
+                    ViewBag.TotalCount1 = Convert.ToInt32(obj.TotalCount.Tables[0].Rows[0]["decount"]);
+					int tp = Convert.ToInt32(obj.TotalCount.Tables[0].Rows[0]["decount"]);
+					int pn = tp / 10;
                     int cal = 10 * pn;
                     int res = Convert.ToInt32(ViewBag.TotalCount1) - cal;
                     if (res >= 1)

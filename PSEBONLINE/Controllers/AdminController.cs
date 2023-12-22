@@ -17449,7 +17449,8 @@ namespace PSEBONLINE.Controllers
                                     string commaString = "";
                                     for (int i = 0; i < dt1.Rows.Count; i++)
                                     {
-                                        commaString = commaString + dt1.Rows[i]["Std_id"].ToString();
+
+                                        commaString = commaString + "'"+dt1.Rows[i]["Std_id"].ToString()+"'";
                                         //commaString += (i < dt1.Rows.Count) ? "," : string.Empty;
                                         commaString += (i < dt1.Rows.Count - 1) ? "," : string.Empty;
                                     }

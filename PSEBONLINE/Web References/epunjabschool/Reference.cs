@@ -23,10 +23,10 @@ namespace PSEBONLINE.epunjabschool {
     
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
-    [System.Web.Services.WebServiceBindingAttribute(Name="service_psebSoap", Namespace="https://tempuri.org/")]
+    [System.Web.Services.WebServiceBindingAttribute(Name="service_psebSoap", Namespace="http://tempuri.org/")]
     public partial class service_pseb : System.Web.Services.Protocols.SoapHttpClientProtocol {
         
         private System.Threading.SendOrPostCallback get9thClassAllStudentsOperationCompleted;
@@ -93,7 +93,7 @@ namespace PSEBONLINE.epunjabschool {
         public event getStaffDetailsCompletedEventHandler getStaffDetailsCompleted;
         
         /// <remarks/>
-        [System.Web.Services.Protocols.SoapDocumentMethodAttribute("https://tempuri.org/get9thClassAllStudents", RequestNamespace="https://tempuri.org/", ResponseNamespace="https://tempuri.org/", Use=System.Web.Services.Description.SoapBindingUse.Literal, ParameterStyle=System.Web.Services.Protocols.SoapParameterStyle.Wrapped)]
+        [System.Web.Services.Protocols.SoapDocumentMethodAttribute("http://tempuri.org/get9thClassAllStudents", RequestNamespace="http://tempuri.org/", ResponseNamespace="http://tempuri.org/", Use=System.Web.Services.Description.SoapBindingUse.Literal, ParameterStyle=System.Web.Services.Protocols.SoapParameterStyle.Wrapped)]
         public string get9thClassAllStudents(string paramerter) {
             object[] results = this.Invoke("get9thClassAllStudents", new object[] {
                         paramerter});
@@ -122,7 +122,7 @@ namespace PSEBONLINE.epunjabschool {
         }
         
         /// <remarks/>
-        [System.Web.Services.Protocols.SoapDocumentMethodAttribute("https://tempuri.org/get9thClassStudentDetails_ByStudents", RequestNamespace="https://tempuri.org/", ResponseNamespace="https://tempuri.org/", Use=System.Web.Services.Description.SoapBindingUse.Literal, ParameterStyle=System.Web.Services.Protocols.SoapParameterStyle.Wrapped)]
+        [System.Web.Services.Protocols.SoapDocumentMethodAttribute("http://tempuri.org/get9thClassStudentDetails_ByStudents", RequestNamespace="http://tempuri.org/", ResponseNamespace="http://tempuri.org/", Use=System.Web.Services.Description.SoapBindingUse.Literal, ParameterStyle=System.Web.Services.Protocols.SoapParameterStyle.Wrapped)]
         public string get9thClassStudentDetails_ByStudents(string paramerter) {
             object[] results = this.Invoke("get9thClassStudentDetails_ByStudents", new object[] {
                         paramerter});
@@ -151,7 +151,7 @@ namespace PSEBONLINE.epunjabschool {
         }
         
         /// <remarks/>
-        [System.Web.Services.Protocols.SoapDocumentMethodAttribute("https://tempuri.org/get9thClassStudentDetails_ByUID", RequestNamespace="https://tempuri.org/", ResponseNamespace="https://tempuri.org/", Use=System.Web.Services.Description.SoapBindingUse.Literal, ParameterStyle=System.Web.Services.Protocols.SoapParameterStyle.Wrapped)]
+        [System.Web.Services.Protocols.SoapDocumentMethodAttribute("http://tempuri.org/get9thClassStudentDetails_ByUID", RequestNamespace="http://tempuri.org/", ResponseNamespace="http://tempuri.org/", Use=System.Web.Services.Description.SoapBindingUse.Literal, ParameterStyle=System.Web.Services.Protocols.SoapParameterStyle.Wrapped)]
         public string get9thClassStudentDetails_ByUID(string paramerter) {
             object[] results = this.Invoke("get9thClassStudentDetails_ByUID", new object[] {
                         paramerter});
@@ -180,7 +180,7 @@ namespace PSEBONLINE.epunjabschool {
         }
         
         /// <remarks/>
-        [System.Web.Services.Protocols.SoapDocumentMethodAttribute("https://tempuri.org/getSchoolDetailsByUdiseCode", RequestNamespace="https://tempuri.org/", ResponseNamespace="https://tempuri.org/", Use=System.Web.Services.Description.SoapBindingUse.Literal, ParameterStyle=System.Web.Services.Protocols.SoapParameterStyle.Wrapped)]
+        [System.Web.Services.Protocols.SoapDocumentMethodAttribute("http://tempuri.org/getSchoolDetailsByUdiseCode", RequestNamespace="http://tempuri.org/", ResponseNamespace="http://tempuri.org/", Use=System.Web.Services.Description.SoapBindingUse.Literal, ParameterStyle=System.Web.Services.Protocols.SoapParameterStyle.Wrapped)]
         public string getSchoolDetailsByUdiseCode(string paramerter) {
             object[] results = this.Invoke("getSchoolDetailsByUdiseCode", new object[] {
                         paramerter});
@@ -209,7 +209,7 @@ namespace PSEBONLINE.epunjabschool {
         }
         
         /// <remarks/>
-        [System.Web.Services.Protocols.SoapDocumentMethodAttribute("https://tempuri.org/getStaffDetails", RequestNamespace="https://tempuri.org/", ResponseNamespace="https://tempuri.org/", Use=System.Web.Services.Description.SoapBindingUse.Literal, ParameterStyle=System.Web.Services.Protocols.SoapParameterStyle.Wrapped)]
+        [System.Web.Services.Protocols.SoapDocumentMethodAttribute("http://tempuri.org/getStaffDetails", RequestNamespace="http://tempuri.org/", ResponseNamespace="http://tempuri.org/", Use=System.Web.Services.Description.SoapBindingUse.Literal, ParameterStyle=System.Web.Services.Protocols.SoapParameterStyle.Wrapped)]
         public string getStaffDetails(string paramerter) {
             object[] results = this.Invoke("getStaffDetails", new object[] {
                         paramerter});
@@ -257,11 +257,11 @@ namespace PSEBONLINE.epunjabschool {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     public delegate void get9thClassAllStudentsCompletedEventHandler(object sender, get9thClassAllStudentsCompletedEventArgs e);
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     public partial class get9thClassAllStudentsCompletedEventArgs : System.ComponentModel.AsyncCompletedEventArgs {
@@ -283,11 +283,11 @@ namespace PSEBONLINE.epunjabschool {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     public delegate void get9thClassStudentDetails_ByStudentsCompletedEventHandler(object sender, get9thClassStudentDetails_ByStudentsCompletedEventArgs e);
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     public partial class get9thClassStudentDetails_ByStudentsCompletedEventArgs : System.ComponentModel.AsyncCompletedEventArgs {
@@ -309,11 +309,11 @@ namespace PSEBONLINE.epunjabschool {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     public delegate void get9thClassStudentDetails_ByUIDCompletedEventHandler(object sender, get9thClassStudentDetails_ByUIDCompletedEventArgs e);
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     public partial class get9thClassStudentDetails_ByUIDCompletedEventArgs : System.ComponentModel.AsyncCompletedEventArgs {
@@ -335,11 +335,11 @@ namespace PSEBONLINE.epunjabschool {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     public delegate void getSchoolDetailsByUdiseCodeCompletedEventHandler(object sender, getSchoolDetailsByUdiseCodeCompletedEventArgs e);
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     public partial class getSchoolDetailsByUdiseCodeCompletedEventArgs : System.ComponentModel.AsyncCompletedEventArgs {
@@ -361,11 +361,11 @@ namespace PSEBONLINE.epunjabschool {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     public delegate void getStaffDetailsCompletedEventHandler(object sender, getStaffDetailsCompletedEventArgs e);
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.4084.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.9037.0")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     public partial class getStaffDetailsCompletedEventArgs : System.ComponentModel.AsyncCompletedEventArgs {
