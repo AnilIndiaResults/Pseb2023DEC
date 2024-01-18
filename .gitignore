@@ -5,4 +5,14 @@
 /PSEBONLINE.sln
 /Web.config
 /Output-Build.txt
+
 /PSEBONLINE/LogFiles
+=======
+/PSEBONLINE/Web.config
+/.gitignore
+/PSEBONLINE/Web.config
+/PSEBONLINE/obj
+/PSEBONLINE/bin
+/.gitignore
+/.gitignore
+
