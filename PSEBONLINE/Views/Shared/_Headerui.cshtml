@@ -401,8 +401,8 @@
                                                 </ul>
                                             </li>
                                         }
-                                        @if (Session["cent"].ToString() != "" && Session["cent"].ToString() != null)
-                                        {
+                                        @*@if (Session["cent"].ToString() != "" && Session["cent"].ToString() != null)
+                                        {*@
                                             <li class="dropdown">
                                                 <a class="dropdown-toggle" data-toggle="dropdown">
                                                     Exam Centre
@@ -415,10 +415,11 @@
                                                     <li>@Html.ActionLink("Exam Centre Details", "ExamCentreDetails", "School")</li>
 
                                                     <li>@Html.ActionLink("Private Cut List", "Private_CutListForAdmin", "Admin")</li>
-                                                    
+                                                    <li>@Html.ActionLink("Signature Chart & Confidential List For NSQF", "PracticalChartLink", "School")</li>
+
                                                 </ul>
                                             </li>
-                                        }
+                                        @*}*@
 
                                             @if (Session["Session"].ToString() == PSEBONLINE.AbstractLayer.StaticDB.GetCurrentYear())
                                             {

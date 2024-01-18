@@ -94,32 +94,33 @@ namespace PSEBONLINE.AbstractLayer
             }
         }
 
-        public DataSet RegandExamFormFeeSummarywithDate(int Type, string fromDate, string toDate)
-        {
-            DataSet result = new DataSet();
-            SqlDataAdapter ad = new SqlDataAdapter();
-            try
-            {
-                using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings[CommonCon].ToString()))
-                {
-                    SqlCommand cmd = new SqlCommand("RegandExamFormFeeSummarywithDate", con);
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.Parameters.AddWithValue("@fromDate", fromDate);
-                    cmd.Parameters.AddWithValue("@toDate", toDate);
-                    ad.SelectCommand = cmd;
-                    cmd.CommandTimeout = 300;
-                    ad.Fill(result);
-                    con.Open();
-                    return result;
-                }
-            }
-            catch (Exception ex)
-            {
-                return result = null;
-            }
-        }
+		public DataSet RegandExamFormFeeSummarywithDate(int Type, string fromDate, string toDate, string Bank)
+		{
+			DataSet result = new DataSet();
+			SqlDataAdapter ad = new SqlDataAdapter();
+			try
+			{
+				using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings[CommonCon].ToString()))
+				{
+					SqlCommand cmd = new SqlCommand("RegandExamFormFeeSummarywithDate", con);
+					cmd.CommandType = CommandType.StoredProcedure;
+					cmd.Parameters.AddWithValue("@fromDate", fromDate);
+					cmd.Parameters.AddWithValue("@toDate", toDate);
+					cmd.Parameters.AddWithValue("@Bank", Bank);
+					ad.SelectCommand = cmd;
+					cmd.CommandTimeout = 300;
+					ad.Fill(result);
+					con.Open();
+					return result;
+				}
+			}
+			catch (Exception ex)
+			{
+				return result = null;
+			}
+		}
 
-        public DataSet PSEBReport(int Type)
+		public DataSet PSEBReport(int Type)
         {
             DataSet result = new DataSet();
             SqlDataAdapter ad = new SqlDataAdapter();

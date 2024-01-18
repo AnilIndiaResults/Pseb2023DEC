@@ -14231,7 +14231,7 @@ namespace PSEBONLINE.Controllers
                         sm.ExamCent = Cent;
                         sm.ExamSub = frc["ExamSub"].ToString();
                         sm.ExamRoll = frc["ExamRoll"].ToString();
-                        sm.CLASS = "12";
+                        sm.CLASS = "4";
                         //DataSet Dresult = objDB.GetCentcode(Schl);
                         DataSet Dresult = objDB.GetPracCentcodeByClass(Schl, 12);
                         List<SelectListItem> schllist = new List<SelectListItem>();

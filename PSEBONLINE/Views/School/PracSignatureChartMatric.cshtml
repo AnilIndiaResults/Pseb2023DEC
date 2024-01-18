@@ -74,8 +74,8 @@
                             var mnm2 = Model.StoreAllData.Tables[1].Rows[k]["mnm"].ToString();
                             var roll2 = Model.StoreAllData.Tables[1].Rows[k]["roll"].ToString();
                             var sid = Model.StoreAllData.Tables[1].Rows[k]["std_id"].ToString();
-                            var pht2 = Model.StoreAllData.Tables[1].Rows[k]["pht"].ToString();
-                            var sig2 = Model.StoreAllData.Tables[1].Rows[k]["sig"].ToString();
+                            var pht2 = "https://psebdata.s3.ap-south-1.amazonaws.com/" + Model.StoreAllData.Tables[1].Rows[k]["pht"].ToString();
+                            var sig2 = "https://psebdata.s3.ap-south-1.amazonaws.com/" + Model.StoreAllData.Tables[1].Rows[k]["sig"].ToString();
                             // var sub2 = Model.StoreAllData.Tables[1].Rows[k]["sub"].ToString();
                             var rp = Model.StoreAllData.Tables[1].Rows[k]["rp"].ToString();
                             var set = Model.StoreAllData.Tables[1].Rows[k]["set"].ToString();
@@ -116,7 +116,7 @@
                                             <td width="16%" style="text-align:center"><div style="padding:2px"><img src="~/Images/Printlogo.jpg" height="50px" alt="PSEB" /></div></td>
                                             <td style="font-size:24px;text-align:center;line-height:22px;vertical-align:top" class="kdsfont" colspan="2">
                                                 <span style="font-size:32px"> Æâ²ØÉ Ó¨ÞÐ ÚÓóÚª¤Ø ÉëÏ¸</span> <br />
-                                                ÌèÚ¶ñ¨ (ÂÓÒÜ Óñã»Û) ÆñÛÚª¤Ø ÌØÏ° - 2022<br /> @*²ÝÐØ¥Û, 2019<br />*@
+                                                ÌèÚ¶ñ¨ (ÂÓÒÜ Óñã»Û) ÆñÛÚª¤Ø ÌØÏ° - 2024<br /> @*²ÝÐØ¥Û, 2019<br />*@
                                                 @*ÕÓ¼ØªÏ-°ØÏ¶ (ÌØÏ°) ((Vocational Group))*@
                                             </td>
                                             <td style="text-align:right" width="16%"><br /><span class="kdsfont">Ú²ÐðØ ¨ë¸ ¤¼ã ÅÙ</span><br /><span class="kdsfont">@HDdist @HDdistnmp</span></td>
@@ -127,7 +127,7 @@
                                         </tr>
                                         <tr>
                                             <td class="kdsfont">ÚÌ¼Û / ÚÒÓÖã</td>
-                                            <td colspan="2">@*@ExamDate*@-----------------------------  / (@HDsub) @HDsubnm</td>
+                                            <td colspan="2">@ExamDate--- / (@HDsub) @HDsubnm</td>
                                             <td class="kdsfont" style="text-align:right">Óèó¶  : @set</td>
                                         </tr>
                                         <tr>

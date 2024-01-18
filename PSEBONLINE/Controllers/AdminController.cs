@@ -7605,7 +7605,7 @@ namespace PSEBONLINE.Controllers
                             else
                             {
                                 _openUserLogin.STREAMCODE = openUserRegistrationViewModel.openUserLogin.STREAMCODE;
-                                _openUserLogin.STREAM = streams.Find(f => f.Value == _openUserLogin.STREAMCODE).Text;
+                                _openUserLogin.STREAM = streams.Find(f => f.Text == _openUserLogin.STREAMCODE).Text;
                             }
                         }
                     }

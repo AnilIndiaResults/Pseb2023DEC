@@ -240,79 +240,87 @@ namespace PSEBONLINE.Controllers
 
         }
 
-        [Route("Admin/Report")]
-        public ActionResult SummaryReports(ReportModel rp, string id = "0", string fromDate = "", string toDate = "")
-        {
-            //_RegExamFormFeeSummary
-            try
-            {
-                if (Session["AdminId"] == null)
-                {
-                    return RedirectToAction("Index", "Admin");
-                }
+		[Route("Admin/Report")]
+		public ActionResult SummaryReports(ReportModel rp, string id = "0", string fromDate = "", string toDate = "", string Bank = "")
+		{
+			//_RegExamFormFeeSummary
+			try
+			{
+				if (Session["AdminId"] == null)
+				{
+					return RedirectToAction("Index", "Admin");
+				}
 
-                ViewBag.tab = id;
-                int tid = Convert.ToInt32(id);
-                DataSet ds = new DataSet();
-                if (id == "11" && fromDate != "" && toDate != "")
-                {
-                    ds = objDB.RegandExamFormFeeSummarywithDate(tid, fromDate, toDate);
-                }
-                else
-                {
-                    ds = objDB.PSEBReport(tid);  //1 for Total Registration by School Report
-                }
-                rp.StoreAllData = ds;
-                if (Request.IsAjaxRequest())
-                {
-                    //var query = GetCategoryPaginatedProducts(categoryid, page1);
-                    ViewBag.TotalCount = rp.StoreAllData.Tables[0].Rows.Count;
-                    if (tid == 1)
-                        return PartialView("_summaryreport", rp);
-                    else if (tid == 2)
-                        return PartialView("_formwisereport", rp);
-                    else if (tid == 3)
-                        return PartialView("_schoolwisereport", rp);
-                    else if (tid == 4)
-                        return PartialView("_paymentsummary", rp);
-                    else if (tid == 5)
-                        return PartialView("_opensummaryreport", rp);
-                    else if (tid == 6)
-                        return PartialView("_openusertypewisereport", rp);
-                    else if (tid == 7)
-                        return PartialView("_opendistwisereport", rp);
-                    else if (tid == 8)
-                        return PartialView("_openschoolreport", rp);
-                    else if (tid == 9)
-                        return PartialView("_regnoerrorreport", rp);
-                    else if (tid == 10)
-                        return PartialView("_usertypereport", rp);
-                    else if (tid == 11)
-                        return PartialView("_RegExamFormFeeSummary", rp);
-                    else if (tid == 12)
-                        return PartialView("_summarydistreport", rp);
-                }
-                if (rp.StoreAllData == null || rp.StoreAllData.Tables[0].Rows.Count == 0)
-                {
-                    ViewBag.Message = "Record Not Found";
-                    ViewBag.TotalCount = 0;
-                    return View();
-                }
-                else
-                {
-                    ViewBag.TotalCount = rp.StoreAllData.Tables[0].Rows.Count;
-                    return View(rp);
-                }
-            }
-            catch (Exception ex)
-            {
-                // oErrorLog.WriteErrorLog(ex.ToString(), Path.GetFileName(Request.Path));
-                //return RedirectToAction("Logout", "Login");
-                return View();
-            }
-        }
+				ViewBag.tab = id;
+				int tid = Convert.ToInt32(id);
+				DataSet ds = new DataSet();
+				if (id == "11")
+				{
+					if (fromDate == "" && toDate == "" && Bank == "")
+					{
+						ds = objDB.PSEBReport(tid);
+					}
+					else
+					{
+						ds = objDB.RegandExamFormFeeSummarywithDate(tid, fromDate, toDate, Bank);
+					}
 
-        [Route("Admin/PaymentSummary")]
+				}
+				else
+				{
+					ds = objDB.PSEBReport(tid);  //1 for Total Registration by School Report
+				}
+				rp.StoreAllData = ds;
+				if (Request.IsAjaxRequest())
+				{
+					//var query = GetCategoryPaginatedProducts(categoryid, page1);
+					ViewBag.TotalCount = rp.StoreAllData.Tables[0].Rows.Count;
+					if (tid == 1)
+						return PartialView("_summaryreport", rp);
+					else if (tid == 2)
+						return PartialView("_formwisereport", rp);
+					else if (tid == 3)
+						return PartialView("_schoolwisereport", rp);
+					else if (tid == 4)
+						return PartialView("_paymentsummary", rp);
+					else if (tid == 5)
+						return PartialView("_opensummaryreport", rp);
+					else if (tid == 6)
+						return PartialView("_openusertypewisereport", rp);
+					else if (tid == 7)
+						return PartialView("_opendistwisereport", rp);
+					else if (tid == 8)
+						return PartialView("_openschoolreport", rp);
+					else if (tid == 9)
+						return PartialView("_regnoerrorreport", rp);
+					else if (tid == 10)
+						return PartialView("_usertypereport", rp);
+					else if (tid == 11)
+						return PartialView("_RegExamFormFeeSummary", rp);
+					else if (tid == 12)
+						return PartialView("_summarydistreport", rp);
+				}
+				if (rp.StoreAllData == null || rp.StoreAllData.Tables[0].Rows.Count == 0)
+				{
+					ViewBag.Message = "Record Not Found";
+					ViewBag.TotalCount = 0;
+					return View();
+				}
+				else
+				{
+					ViewBag.TotalCount = rp.StoreAllData.Tables[0].Rows.Count;
+					return View(rp);
+				}
+			}
+			catch (Exception ex)
+			{
+				// oErrorLog.WriteErrorLog(ex.ToString(), Path.GetFileName(Request.Path));
+				//return RedirectToAction("Logout", "Login");
+				return View();
+			}
+		}
+
+		[Route("Admin/PaymentSummary")]
         public ActionResult PaymentSummary(ReportModel rp)
         {
             try
